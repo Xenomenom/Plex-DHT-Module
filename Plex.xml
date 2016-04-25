@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <property>
+    <name>host</name>
+    <value>127.0.0.1</value>
+    <type>string</type>
+  </property>
+  <property>
+    <name>port</name>
+    <value>32400</value>
+    <type>uint16</type>
+  </property>
+  <property>
+    <name>token</name>
+    <value></value>
+    <type>string</type>
+  </property>
+  <property>
+    <name>hostname</name>
+    <value>localhost</value>
+    <type>string</type>
+  </property>
+  <property>
+    <name>clientPort</name>
+    <value>3005</value>
+    <type>uint16</type>
+  </property>
+</config>
