@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
   <property>
-    <name>host</name>
+    <name>server</name>
     <value>127.0.0.1</value>
     <type>string</type>
   </property>
   <property>
-    <name>port</name>
+    <name>serverPort</name>
     <value>32400</value>
     <type>uint16</type>
   </property>
@@ -16,7 +16,7 @@
     <type>string</type>
   </property>
   <property>
-    <name>hostname</name>
+    <name>client</name>
     <value>localhost</value>
     <type>string</type>
   </property>
@@ -24,5 +24,10 @@
     <name>clientPort</name>
     <value>3005</value>
     <type>uint16</type>
+  </property>
+  <property>
+    <name>connection</name>
+    <value>http</value>
+    <type>string</type>
   </property>
 </config>
