@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <config>
   <property>
-    <name>server</name>
-    <value>userver</value>
+    <name>host</name>
+    <value>127.0.0.1</value>
     <type>string</type>
   </property>
   <property>
-    <name>serverPort</name>
-    <value>443</value>
+    <name>port</name>
+    <value>32400</value>
     <type>uint16</type>
   </property>
   <property>
     <name>token</name>
-    <value>FhYPibJyN7Mhq29XfoXC</value>
+    <value></value>
     <type>string</type>
   </property>
   <property>
-    <name>client</name>
+    <name>hostname</name>
     <value>localhost</value>
     <type>string</type>
   </property>
